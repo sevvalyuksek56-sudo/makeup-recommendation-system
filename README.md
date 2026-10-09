@@ -1,4 +1,4 @@
-#University C++ Project
+University C++ Project
 About the Project
 This repository contains materials related to a C++ project developed for a university course.
 
